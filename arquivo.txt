@@ -1,2 +1,3 @@
 adicionando 1º texto
 alterando
+adicionando novo parágrafo ao arquivo texto
